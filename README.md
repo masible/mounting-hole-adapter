@@ -10,3 +10,6 @@ part's threads.
 
 Model is customisable, OpenSCAD source provided. Let me know if any of the
 descriptions are unclear.
+
+See [Printables model page](https://www.printables.com/model/264691-mounting-hole-adapter)
+for photos and details.
